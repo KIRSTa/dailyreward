@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your knowledge of general trivia.",
+  "questions": [
+    {
+      "question": "Capital of France?",
+      "answers": ["Paris", "Rome", "Berlin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest planet?",
+      "answers": ["Mars", "Jupiter", "Earth"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Fastest land animal?",
+      "answers": ["Cheetah", "Lion", "Horse"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "H2O is?",
+      "answers": ["Water", "Oxygen", "Hydrogen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Longest river?",
+      "answers": ["Nile", "Amazon", "Yangtze"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Sun rises in?",
+      "answers": ["East", "West", "North"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "2 + 2 = ?",
+      "answers": ["4", "22", "5"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Square root of 9?",
+      "answers": ["3", "9", "6"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Fastest bird?",
+      "answers": ["Eagle", "Falcon", "Owl"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Color of the sky?",
+      "answers": ["Blue", "Red", "Green"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest ocean?",
+      "answers": ["Atlantic", "Indian", "Pacific"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Number of continents?",
+      "answers": ["7", "5", "6"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Freezing point of water?",
+      "answers": ["0C", "100C", "50C"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Earth's shape?",
+      "answers": ["Sphere", "Flat", "Cube"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "First man on moon?",
+      "answers": ["Armstrong", "Gagarin", "Glenn"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "7 * 8 = ?",
+      "answers": ["56", "49", "64"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "DNA stands for?",
+      "answers": ["Acid", "Nucleus", "Dioxide"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Fastest fish?",
+      "answers": ["Sailfish", "Tuna", "Shark"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest mammal?",
+      "answers": ["Whale", "Elephant", "Giraffe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Smallest unit of matter?",
+      "answers": ["Atom", "Molecule", "Cell"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
